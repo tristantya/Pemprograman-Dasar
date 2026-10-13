@@ -1,0 +1,7 @@
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\pengulangan8\bin\Debug\pengulangan8.exe.config
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\pengulangan8\bin\Debug\pengulangan8.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\pengulangan8\bin\Debug\pengulangan8.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\pengulangan8\obj\Debug\pengulangan8.csproj.AssemblyReference.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\pengulangan8\obj\Debug\pengulangan8.csproj.CoreCompileInputs.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\pengulangan8\obj\Debug\pengulangan8.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\pengulangan8\obj\Debug\pengulangan8.pdb

@@ -1,0 +1,7 @@
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulamgam3\bin\Debug\perulamgam3.exe.config
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulamgam3\bin\Debug\perulamgam3.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulamgam3\bin\Debug\perulamgam3.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulamgam3\obj\Debug\perulamgam3.csproj.AssemblyReference.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulamgam3\obj\Debug\perulamgam3.csproj.CoreCompileInputs.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulamgam3\obj\Debug\perulamgam3.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulamgam3\obj\Debug\perulamgam3.pdb
