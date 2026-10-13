@@ -1,0 +1,7 @@
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan2\obj\Debug\perulangan2.csproj.AssemblyReference.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan2\obj\Debug\perulangan2.csproj.CoreCompileInputs.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan2\bin\Debug\perulangan2.exe.config
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan2\bin\Debug\perulangan2.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan2\bin\Debug\perulangan2.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan2\obj\Debug\perulangan2.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan2\obj\Debug\perulangan2.pdb

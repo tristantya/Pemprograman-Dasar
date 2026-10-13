@@ -1,0 +1,7 @@
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan5\bin\Debug\perulangan5.exe.config
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan5\bin\Debug\perulangan5.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan5\bin\Debug\perulangan5.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan5\obj\Debug\perulangan5.csproj.AssemblyReference.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan5\obj\Debug\perulangan5.csproj.CoreCompileInputs.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan5\obj\Debug\perulangan5.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\perulangan5\obj\Debug\perulangan5.pdb
