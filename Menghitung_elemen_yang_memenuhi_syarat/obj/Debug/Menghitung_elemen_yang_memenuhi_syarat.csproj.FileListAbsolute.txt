@@ -1,0 +1,7 @@
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Menghitung_elemen_yang_memenuhi_syarat\bin\Debug\Menghitung_elemen_yang_memenuhi_syarat.exe.config
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Menghitung_elemen_yang_memenuhi_syarat\bin\Debug\Menghitung_elemen_yang_memenuhi_syarat.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Menghitung_elemen_yang_memenuhi_syarat\bin\Debug\Menghitung_elemen_yang_memenuhi_syarat.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Menghitung_elemen_yang_memenuhi_syarat\obj\Debug\Menghitung_elemen_yang_memenuhi_syarat.csproj.AssemblyReference.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Menghitung_elemen_yang_memenuhi_syarat\obj\Debug\Menghitung_elemen_yang_memenuhi_syarat.csproj.CoreCompileInputs.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Menghitung_elemen_yang_memenuhi_syarat\obj\Debug\Menghitung_elemen_yang_memenuhi_syarat.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Menghitung_elemen_yang_memenuhi_syarat\obj\Debug\Menghitung_elemen_yang_memenuhi_syarat.pdb

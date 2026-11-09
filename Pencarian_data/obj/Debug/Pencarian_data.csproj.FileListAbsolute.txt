@@ -1,0 +1,7 @@
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Pencarian_data\obj\Debug\Pencarian_data.csproj.AssemblyReference.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Pencarian_data\obj\Debug\Pencarian_data.csproj.CoreCompileInputs.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Pencarian_data\bin\Debug\Pencarian_data.exe.config
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Pencarian_data\bin\Debug\Pencarian_data.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Pencarian_data\bin\Debug\Pencarian_data.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Pencarian_data\obj\Debug\Pencarian_data.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\Pencarian_data\obj\Debug\Pencarian_data.pdb

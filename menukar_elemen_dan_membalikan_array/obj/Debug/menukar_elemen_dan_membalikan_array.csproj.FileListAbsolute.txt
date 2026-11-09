@@ -1,0 +1,7 @@
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\menukar_elemen_dan_membalikan_array\bin\Debug\menukar_elemen_dan_membalikan_array.exe.config
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\menukar_elemen_dan_membalikan_array\bin\Debug\menukar_elemen_dan_membalikan_array.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\menukar_elemen_dan_membalikan_array\bin\Debug\menukar_elemen_dan_membalikan_array.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\menukar_elemen_dan_membalikan_array\obj\Debug\menukar_elemen_dan_membalikan_array.csproj.AssemblyReference.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\menukar_elemen_dan_membalikan_array\obj\Debug\menukar_elemen_dan_membalikan_array.csproj.CoreCompileInputs.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\menukar_elemen_dan_membalikan_array\obj\Debug\menukar_elemen_dan_membalikan_array.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\menukar_elemen_dan_membalikan_array\obj\Debug\menukar_elemen_dan_membalikan_array.pdb
