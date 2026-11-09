@@ -1,0 +1,8 @@
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\method_dan_program_bawaan_array\bin\Debug\method_dan_program_bawaan_array.exe.config
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\method_dan_program_bawaan_array\bin\Debug\method_dan_program_bawaan_array.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\method_dan_program_bawaan_array\bin\Debug\method_dan_program_bawaan_array.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\method_dan_program_bawaan_array\obj\Debug\method_dan_program_bawaan_array.csproj.AssemblyReference.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\method_dan_program_bawaan_array\obj\Debug\method_dan_program_bawaan_array.csproj.CoreCompileInputs.cache
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\method_dan_program_bawaan_array\obj\Debug\method_dan_program_bawaan_array.exe
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\method_dan_program_bawaan_array\obj\Debug\method_dan_program_bawaan_array.pdb
+D:\TRISTANTYA KENZA AZKAUAR X PPLG 2\method_dan_program_bawaan_array\obj\Debug\method_dan_program_bawaan_array.exe.config
